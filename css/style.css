@@ -1,0 +1,25 @@
+
+
+body{
+    font-family: 'Montserrat',sans-serif;
+}
+
+.but:hover{
+    background-color: grey;    
+}
+.but:hover .txt{
+color:white;
+}
+.grey{
+    color:grey;  
+    
+}
+.grey:hover{
+    color:grey;
+} 
+.st{
+    font-style: italic;
+}
+.bg-grey{
+background-color: grey;
+}
